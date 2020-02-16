@@ -470,9 +470,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-193.27669"
-     inkscape:cy="131.26589"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="-381.89329"
+     inkscape:cy="71.987186"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -482,8 +482,8 @@
      guidetolerance="10000"
      inkscape:window-width="2293"
      inkscape:window-height="1601"
-     inkscape:window-x="1387"
-     inkscape:window-y="298"
+     inkscape:window-x="1678"
+     inkscape:window-y="266"
      inkscape:window-maximized="0"
      inkscape:snap-text-baseline="true"
      fit-margin-top="0"
@@ -828,31 +828,31 @@
        sodipodi:nodetypes="cc" />
     <text
        id="text12469"
-       y="80.041679"
+       y="82.158348"
        x="-391.58331"
        style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan12467"
          style="stroke-width:0.26458332"
-         y="80.041679"
+         y="82.158348"
          x="-391.58331"
          sodipodi:role="line">001/1</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path12477"
-       d="m -369.35832,121.31668 c 20.10833,-4.23333 35.98333,-30.691665 40.21666,-47.624998"
+       d="m -368.29999,128.72501 c 20.10833,-4.23333 37.04167,-37.041662 39.15833,-55.033328"
        style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker12481)" />
     <text
        id="text16085"
-       y="101.20835"
-       x="-365.125"
+       y="104.38335"
+       x="-364.06665"
        style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan16083"
          style="stroke-width:0.26458332"
-         y="101.20835"
-         x="-365.125"
+         y="104.38335"
+         x="-364.06665"
          sodipodi:role="line">X1X/0</tspan></text>
     <text
        xml:space="preserve"
